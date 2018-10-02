@@ -1,0 +1,19 @@
+{
+  "name": "my-songbook",
+  "version": "1.0.0",
+  "description": "Eine musikerfreundliche App zur verwaltung von",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aline666/My-Songbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aline666/My-Songbook/issues"
+  },
+  "homepage": "https://github.com/Aline666/My-Songbook#readme"
+}
